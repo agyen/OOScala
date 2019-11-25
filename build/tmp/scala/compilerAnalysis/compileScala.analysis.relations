@@ -1,0 +1,30 @@
+products:
+   src/main/scala/io/turntabl/grades/Grades.scala -> build/classes/scala/main/io/turntabl/grades/Grades$.class
+   src/main/scala/io/turntabl/grades/Grades.scala -> build/classes/scala/main/io/turntabl/grades/Grades.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$delayedInit$body.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp.class
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> build/classes/scala/main/io/turntabl/students/TLCStudent$.class
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> build/classes/scala/main/io/turntabl/students/TLCStudent.class
+binary dependencies:
+   src/main/scala/io/turntabl/grades/Grades.scala -> /home/isaac-agyen/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/grades/Grades.scala -> /snap/intellij-idea-community/185/jbr
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/isaac-agyen/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/TLCStudent$.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/TLCStudent.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /snap/intellij-idea-community/185/jbr
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> /home/isaac-agyen/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> /snap/intellij-idea-community/185/jbr
+source dependencies:
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/grades/Grades.scala
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/students/TLCStudent.scala
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> src/main/scala/io/turntabl/grades/Grades.scala
+external dependencies:
+class names:
+   src/main/scala/io/turntabl/grades/Grades.scala -> io.turntabl.grades.Grades
+   src/main/scala/io/turntabl/grades/Grades.scala -> io.turntabl.grades.Grades$
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$delayedInit$body
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> io.turntabl.students.TLCStudent
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> io.turntabl.students.TLCStudent$
