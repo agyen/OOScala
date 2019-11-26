@@ -8,6 +8,11 @@ products:
    src/main/scala/io/turntabl/functions/func.scala -> build/classes/scala/main/io/turntabl/functions/func.class
    src/main/scala/io/turntabl/grades/Grades.scala -> build/classes/scala/main/io/turntabl/grades/Grades$.class
    src/main/scala/io/turntabl/grades/Grades.scala -> build/classes/scala/main/io/turntabl/grades/Grades.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$1.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$2.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$3.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$4.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$5.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$delayedInit$body.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp.class
@@ -30,7 +35,6 @@ binary dependencies:
    src/main/scala/io/turntabl/students/TLCStudent.scala -> /home/isaac-agyen/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
    src/main/scala/io/turntabl/students/TLCStudent.scala -> /snap/intellij-idea-community/185/jbr
 source dependencies:
-   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/functions/func.scala
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/students/TLCStudent.scala
    src/main/scala/io/turntabl/students/TLCStudent.scala -> src/main/scala/io/turntabl/grades/Grades.scala
 external dependencies:
@@ -46,6 +50,11 @@ class names:
    src/main/scala/io/turntabl/grades/Grades.scala -> io.turntabl.grades.Grades$
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$1
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$2
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$3
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$4
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$5
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$delayedInit$body
    src/main/scala/io/turntabl/students/TLCStudent.scala -> io.turntabl.students.AccessCard
    src/main/scala/io/turntabl/students/TLCStudent.scala -> io.turntabl.students.AccessCard$class

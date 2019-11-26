@@ -19,6 +19,4 @@ object MyApp extends App {
 //  println(func.ApplyToString("hello, scala", func.numberOfSpaces))
 
 
-
-
 }
